@@ -1,5 +1,7 @@
 ## 📂 GitHub Submission Instructions
 
+- Once you've done the work on remix , simply copy those contract files and put here for submission.
+
 ### 1️⃣ Create a Folder Named With Your Roll Number
 
 - Example:
